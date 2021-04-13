@@ -37,6 +37,9 @@ flutter run --dart
   
 ![](assets/readme/video.gif)
 
+![](assets/readme/refresh.jpg)
+
+
 
 - https://www.marialijideveloper.com
 

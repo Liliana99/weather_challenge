@@ -37,7 +37,7 @@ flutter run --dart
   
   
 
-<img src="assets/readme/video_gif.gif" width=200 height=429/> 
+<img src="assets/readme/video_gif.gif" width=800 height=1200/> 
 
 
 - https://www.marialijideveloper.com

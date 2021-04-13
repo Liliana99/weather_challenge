@@ -37,7 +37,7 @@ flutter run --dart
   
   
 
-![](assets/readme/video.gif)
+<img src="assets/readme/video_gif.gif" width=200 height=429/> 
 
 
 - https://www.marialijideveloper.com

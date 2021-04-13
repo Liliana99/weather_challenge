@@ -35,9 +35,7 @@ flutter run --dart
 ### ✅ Widget Test
 ![](assets/readme/widget_test.png)
   
-  
-
-<img src="assets/readme/video_gif.gif" width=800 height=1200/> 
+![](assets/readme/video.gif)
 
 
 - https://www.marialijideveloper.com

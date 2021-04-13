@@ -16,7 +16,6 @@ To demostrate
 
 git clone [repo_url]
 
-cd qr_generator_flutter
 
 flutter pub get
 

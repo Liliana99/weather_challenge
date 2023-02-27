@@ -5,15 +5,13 @@ import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 
 class DioConnectivityRequestRetrier {
-  final Dio dio;
-  final Connectivity connectivity;
-
-  // ignore: sort_constructors_first
-  DioConnectivityRequestRetrier({
+   DioConnectivityRequestRetrier({
     @required this.dio,
     @required this.connectivity,
   });
-
+  final Dio dio;
+  final Connectivity connectivity;
+  
   Future<Response> scheduleRequestRetry(RequestOptions requestOptions) async {
     StreamSubscription streamSubscription;
     //responseCompleter!! to receive response from Dio,
